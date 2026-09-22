@@ -5,6 +5,8 @@
 <h3 align="center">ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination</h3>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2609.24526"><img src="https://img.shields.io/badge/arXiv-2609.24526-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv"></a>
+  &nbsp;
   <a href="assets/ME-VLM.pdf"><img src="https://img.shields.io/badge/PDF-Tech_Report-B31B1B?style=flat&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="Tech Report"></a>
   &nbsp;
   <a href="https://machembodied.com/ME-Brain/ME-VLM.html"><img src="https://img.shields.io/badge/Project-Page-057568?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
